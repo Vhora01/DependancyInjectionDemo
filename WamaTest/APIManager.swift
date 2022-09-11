@@ -9,7 +9,7 @@ import Foundation
 
 
 
-
+//Call API
 
 class APIManager{
     let strURL = "https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=444ad0895ee94130972d070cead5fcb3"
